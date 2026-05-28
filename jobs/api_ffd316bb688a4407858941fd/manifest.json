@@ -1,0 +1,52 @@
+{
+  "job_id": "api_ffd316bb688a4407858941fd",
+  "mode": "zip_split",
+  "file_url": "https://free-dl7.myalphadl.com/ETLK4NfzWvTRkTqyCIZ3dg/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL.mp4",
+  "suggested_filename": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL.mp4",
+  "total_size_bytes": 683501815,
+  "created_at_utc": "2026-05-28T08:40:14.090602+00:00",
+  "zip_folder": "jobs/api_ffd316bb688a4407858941fd/zip",
+  "zip_main_file": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z01",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z02",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z03",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z04",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z05",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z06",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z07",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.zip",
+      "path": "jobs/api_ffd316bb688a4407858941fd/zip/The.Hangover.2009.Unrated.720p.SoftSub.BrRip.YIFY.AlphaDL_split.zip",
+      "size_bytes": 22899211
+    }
+  ]
+}
